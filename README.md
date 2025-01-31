@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Eloise
 - 👀 I’m interested in 3d Modelling, Games, Video editing, Photography, Notetaking, 
 - 🌱 I’m currently learning Blender, Obs, DaVinchi Resolve, Github Desktop, 
-- 💞️ I’m looking to collaborate on media projects, 
+- 💞️ I’m looking to collaborate on, particularly horror themed, media projects, 
 - 📫 How to reach me: email cheesybro100@gmail.com
-- 😄 Pronouns: it/its, she/her, 
+- 😄 Pronouns: it/its, she/her
 - ⚡ Fun fact: I'm Eloise!!
 
 <!---
